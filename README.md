@@ -21,15 +21,6 @@ if let image = UIImage(named: imageName) {
 }
 ```
 
-### And coding style tests
-
-klklk
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-
 ## Contributing
 Do submit pull requests to help improve the code!
 
