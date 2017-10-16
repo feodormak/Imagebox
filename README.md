@@ -2,6 +2,8 @@
 
 Imagebox is a simple Swift class to display an image in fullscreen, supports tap to zoom, zooming, panning and screen rotation.
 
+[https://user-images.githubusercontent.com/17231825/31616106-5803ba44-b2be-11e7-9024-8e7fc6d53ba9.gif]
+
 ## Installing
 Make use of the Imagebox series of files in the included project. Have not learnt how to create Pods or Carthage! Sorry!
 
