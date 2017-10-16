@@ -9,13 +9,13 @@ Make use of the Imagebox series of files in the included project. Have not learn
 
 ## Usage
 Create a UIButton on IB or programatically and set the image with the method, 
-```
+```swift
 button.setImage(image: UIImage?, for: UIControlState)
 ```
 Set up size constraint outlets for the width and height of the button and ensure your UIButton type is set to "Custom". See project for details.
 
 Add an action to your button and call,
-```
+```swift
 if let image = UIImage(named: imageName) {
     let controller = ImageboxController(image: image)
     controller.modalPresentationStyle = .overFullScreen
